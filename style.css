@@ -1,3 +1,16 @@
+head {
+    background-color: #0f172a;
+    color: #221449;
+    font-family: system-ui, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    margin: 0;
+    padding: 20px;
+}
+
 body {
     background-color: #0f172a;
     color: #221449;
@@ -9,6 +22,11 @@ body {
     min-height: 100vh;
     margin: 0;
     padding: 20px;
+}
+
+title {
+    color: #a1dfa1;
+    font-size: 4;
 }
 
 h1 {
