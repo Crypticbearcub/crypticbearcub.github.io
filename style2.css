@@ -1,6 +1,6 @@
 body {
-    background-color: #0f172a;
-    color: #221449;
+    background-color: #fff9a8;
+    color: #0e1820;
     font-family: system-ui, sans-serif;
     display: flex;
     flex-direction: column;
@@ -12,12 +12,12 @@ body {
 }
 
 h1 {
-    color: #a1dfa1;
+    color: #15112c;
     font-size: 2.5rem;
 }
 
 p {
-    color: #c4fdbf;
+    color: #120b22;
     max-width: 600px;
     text-align: center;
     line-height: 1.6;
