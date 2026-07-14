@@ -48,18 +48,6 @@ section {
     padding: 10%;
 }
 
-h1 {
-    color: #a1dfa1;
-    font-size: 2.5rem;
-}
-
-p {
-    color: #c4fdbf;
-    max-width: 600px;
-    text-align: center;
-    line-height: 1.6;
-}
-
 image {
     align-items: end;
 }
