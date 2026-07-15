@@ -5,8 +5,8 @@
     font-family: 'Poppins', sans-serif;
 }
 body {
+    min-height: 100vh;
     background-color: #0f172a;
-    color: #221449;
 }
 
 nav {
@@ -30,7 +30,7 @@ nav ul {
 
 nav ul a {
     color: #a1dfa1;
-    padding: 10%;
+    padding: 5px 15px;
     border-radius: 5px;
     transition: 0.3s ease;
     font-size: 20px;
