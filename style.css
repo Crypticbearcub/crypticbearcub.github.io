@@ -18,6 +18,7 @@ nav {
     justify-content: space-between;
     align-items: center;
     padding: 30px 150px;
+    background-color: #1e293b;
 }
 
 nav ul {
@@ -46,4 +47,8 @@ nav > a {
 section {
     color: #a1dfa1;
     padding: 10%;
+}
+
+img {
+    align-items: end;
 }
